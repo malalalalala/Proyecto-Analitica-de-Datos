@@ -1,6 +1,6 @@
 # Proyecto-Analitica-de-Datos
-##Netherlands Accommodation Prices (FCG)
-###Predict accommodation prices in the Netherlands
+## Netherlands Accommodation Prices (FCG)
+### Predict accommodation prices in the Netherlands
 
 https://www.kaggle.com/competitions/fcg-2022-netherlands-accommodation-prices/overview
 
