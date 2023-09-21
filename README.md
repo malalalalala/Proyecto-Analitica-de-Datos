@@ -12,7 +12,6 @@ El objetivo principal de este proyecto es realizar un análisis de datos exhaust
 
 Este proyecto de análisis de datos tiene como finalidad:
 
-- [Predecir los precios de alquiler de propiedades en función de diversas variables].
-- [Utilizaremos datos de alquiler de propiedades recopilados de la información disponible en https://kamernet.nl/ para cada propiedad. Este Dataset tiene más de 46,000 datos desde el 14 de julio de 2019 hasta el 3 de marzo de 2020 
-- [Usaremos Python y bibliotecas como Pandas, NumPy y Scikit-Learn para el análisis de datos].
-de gestión"].
+- Predecir los precios de alquiler de propiedades en función de diversas variables.
+- Utilizaremos datos de alquiler de propiedades recopilados de la información disponible en https://kamernet.nl/ para cada propiedad. Este Dataset tiene más de 46,000 datos desde el 14 de julio de 2019 hasta el 3 de marzo de 2020 
+- Usaremos Python y bibliotecas como Pandas, NumPy y Scikit-Learn para el análisis de datos.
