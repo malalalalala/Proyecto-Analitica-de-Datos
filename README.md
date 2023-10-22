@@ -13,12 +13,13 @@ El objetivo principal de este proyecto es realizar un análisis de datos exhaust
 Este proyecto de análisis de datos tiene como finalidad:
 
 - Predecir los precios de alquiler de propiedades en función de diversas variables.
-- Utilizaremos datos de alquiler de propiedades recopilados de la información disponible en https://kamernet.nl/ para cada propiedad. Este Dataset tiene más de 46,000 datos desde el 14 de julio de 2019 hasta el 3 de marzo de 2020
-- Usaremos Python y bibliotecas como Pandas, NumPy y Scikit-Learn para el análisis de datos.
+- Utilizaré datos de alquiler de propiedades recopilados de la información disponible en https://kamernet.nl/ para cada propiedad. Este Dataset tiene más de 29,000 datos desde el 14 de julio de 2019 hasta el 3 de marzo de 2020
+- Usaré Python y bibliotecas como Pandas, NumPy y Scikit-Learn para el análisis de datos.
+- Basado en la competencia de Kaggle Netherlands Accommodation Prices (FCG) https://www.kaggle.com/competitions/fcg-2022-netherlands-accommodation-prices
 
 ## Reproducción notebook
 
-- El proyecto se entregará en un solo notebook.
+- El proyecto se entregará en un solo Notebook para evitar reprocesos y código duplicado.
 - Para poder conectarte a la base de datos de Kaggle debes tener un archivo kaggle.json, esto lo obtienes de la siguiente manera
 
   1. Ve a tu cuenta, desplázate hasta la sección de API y haz clic en "Expirar API Token" para eliminar tokens anteriores.
