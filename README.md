@@ -24,12 +24,14 @@ Este proyecto de análisis de datos tiene como finalidad:
   1. Ve a tu cuenta, desplázate hasta la sección de API y haz clic en "Expirar API Token" para eliminar tokens anteriores.
   2. Haz clic en "Crear un nuevo token de API" - Se descargará un archivo kaggle.json en tu máquina.
 
+  ### Subir el archivo kaggle.json desde el sistema local
+
 - Una vez entres al notebook el segundo bloque de código que debes reproducir es:
-  `from google.colab import files
 
-### Subir el archivo kaggle.json desde el sistema local
-
-uploaded = files.upload()``
+```
+from google.colab import files
+uploaded = files.upload()
+```
 
 En este paso debes subir el kaggle.json desde tu computadora
 
