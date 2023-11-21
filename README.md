@@ -41,3 +41,7 @@ En este paso debes subir el kaggle.json desde tu computadora
 ## Video Segunda Entrega
 
 https://www.youtube.com/watch?v=eOgTyFBzRFE&ab_channel=LauraRamos
+
+## Video Entrega Final
+
+https://youtu.be/IrXYaor0YW8
